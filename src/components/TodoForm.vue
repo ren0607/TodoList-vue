@@ -3,7 +3,7 @@
         <v-app-bar dark color="indigo">
             <v-btn icon to="/"><v-icon>arrow_back</v-icon></v-btn>
             <v-toolbar-title class="white--text">
-                My Todo
+                家計簿
             </v-toolbar-title>
         </v-app-bar>
         <v-text-field v-model="newTodo" placeholder="Input here..."></v-text-field>
